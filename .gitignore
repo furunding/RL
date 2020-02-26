@@ -1,0 +1,5 @@
+.vscode/
+.idea/
+cs285.egg-info/
+__pycache__/
+/homework_fall2019-master/hw1/cs285/data/
